@@ -117,6 +117,8 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 4. Profit prediction graph
 
+
+
 ![image](https://github.com/neha074/experiment--3/assets/113016903/991a1ec2-0f0d-4cef-9389-8a10f75a7a96)
 
 
