@@ -110,25 +110,31 @@ print("For population = 70,000, we predict a profit of $"+str(round(predict2,0))
 
 3. cost function using gradient descent graph
 
+![image](https://github.com/neha074/experiment--3/assets/113016903/4e7cef10-a89f-4283-aa17-f195a2977603)
 
-![linear regression using gradient descent](ex3.png)
+
 
 
 4. Profit prediction graph
 
+![image](https://github.com/neha074/experiment--3/assets/113016903/991a1ec2-0f0d-4cef-9389-8a10f75a7a96)
 
-![linear regression using gradient descent](ex33.png)
+
 
 
 5. profit for the population 35,000
 
+![image](https://github.com/neha074/experiment--3/assets/113016903/924d41c0-dbf3-49e7-a569-2b4c360bc6f4)
 
-![linear regression using gradient descent](exp34.png)
+
+
 
 6. Profit for the population 70,0000
 
+![image](https://github.com/neha074/experiment--3/assets/113016903/9f6c76b0-6f7a-43b5-ab9e-135f3c55f2a6)
 
-![linear regression using gradient descent](exp35.png)
+
+
 
 
 
